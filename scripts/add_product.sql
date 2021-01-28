@@ -1,0 +1,1 @@
+INSERT products(name_p, price, in_stock, id_category) values('some_name', 1.2, 1, 3);
